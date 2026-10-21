@@ -1,4 +1,4 @@
-### 你好，我是 SoundAdam
+### HI，I'm soundadam
 
 近期在做语音信号处理：
 
